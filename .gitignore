@@ -1,0 +1,9 @@
+# BGA 的素材，不随仓库分发（脚本运行时直接引用其 CDN）
+docs/Gods.png
+
+# 系统 / 编辑器杂物
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
