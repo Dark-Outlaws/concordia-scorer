@@ -1,5 +1,7 @@
 # Concordia 实时计分（BGA）
 
+> 仓库 / 更新：https://github.com/Dark-Outlaws/concordia-scorer
+
 Board Game Arena 上《康考迪亚》(Concordia) 的用户脚本：常驻浮窗，实时显示所有玩家**「若此刻结束」的终局预估分**，并按六神逐项拆开。
 
 BGA 在康考迪亚里不显示实时分（台子关闭「实时分数」时更是完全藏起来），这个脚本从**公开版面自己算**，把这个空补上。

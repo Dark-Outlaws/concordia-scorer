@@ -3,6 +3,11 @@
 // @namespace    hanako.concordia-scorer
 // @version      1.0.0
 // @description  康考迪亚：常驻浮窗实时显示所有玩家「若此刻结束」的终局预估分（BGA）
+// @author       浮沉 & hanako
+// @homepageURL  https://github.com/Dark-Outlaws/concordia-scorer
+// @supportURL   https://github.com/Dark-Outlaws/concordia-scorer/issues
+// @updateURL    https://raw.githubusercontent.com/Dark-Outlaws/concordia-scorer/main/concordia-scorer.user.js
+// @downloadURL  https://raw.githubusercontent.com/Dark-Outlaws/concordia-scorer/main/concordia-scorer.user.js
 // @match        https://boardgamearena.com/*
 // @match        https://*.boardgamearena.com/*
 // @run-at       document-idle
